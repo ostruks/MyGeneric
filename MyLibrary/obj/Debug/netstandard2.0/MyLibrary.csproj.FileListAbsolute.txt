@@ -1,0 +1,9 @@
+C:\Users\oserleon\source\repos\MyGeneric\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.deps.json
+C:\Users\oserleon\source\repos\MyGeneric\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.dll
+C:\Users\oserleon\source\repos\MyGeneric\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.pdb
+C:\Users\oserleon\source\repos\MyGeneric\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.csprojAssemblyReference.cache
+C:\Users\oserleon\source\repos\MyGeneric\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\oserleon\source\repos\MyGeneric\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\oserleon\source\repos\MyGeneric\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.AssemblyInfo.cs
+C:\Users\oserleon\source\repos\MyGeneric\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.dll
+C:\Users\oserleon\source\repos\MyGeneric\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.pdb

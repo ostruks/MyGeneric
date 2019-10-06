@@ -1,0 +1,14 @@
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.deps.json
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.runtimeconfig.json
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.runtimeconfig.dev.json
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.dll
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.pdb
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\bin\Debug\netcoreapp2.1\MyLibrary.dll
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\bin\Debug\netcoreapp2.1\MyLibrary.pdb
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.csprojAssemblyReference.cache
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.csproj.CoreCompileInputs.cache
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.AssemblyInfoInputs.cache
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.AssemblyInfo.cs
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.csproj.CopyComplete
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.dll
+C:\Users\oserleon\source\repos\MyGeneric\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.pdb
